@@ -30,7 +30,7 @@ MyToken is the contract defines a token with a name, abbreviation, and total sup
 
 **Avinash Parida**
 GitHub: [GitHubHandle](https://github.com/avinash24355/etm-assign/blob/main/etm%20test)  
-Email: [email@example.com](avinashparida1234@gmail.com)
+Email: [email](avinashparida1234@gmail.com)
 
 ## License
 
